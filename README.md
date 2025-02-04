@@ -1,7 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="" alt="Akshit Garg Banner" width="100%">
-</p>
 
 <h1 align="center">Hey 👋, I'm Akshit Garg</h1>
 <h3 align="center">🚀 Passionate B.Tech CSE Student | Full Stack Developer | DSA Enthusiast</h3>
