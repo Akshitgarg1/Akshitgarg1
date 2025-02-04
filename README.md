@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Akshit-Garg/banner.png" alt="Akshit Garg Banner" width="100%">
+  <img src="" alt="Akshit Garg Banner" width="100%">
 </p>
 
 <h1 align="center">Hey 👋, I'm Akshit Garg</h1>
