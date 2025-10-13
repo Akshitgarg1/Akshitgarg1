@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Akshit Garg</h1>
-<h3 align="center">🚀 Passionate B.Tech CSE Student | Full Stack Developer | DSA Enthusiast</h3>
+<h3 align="center">🚀 Passionate B.Tech CSE Student | Aspiring SDE | DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akshit-garg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,7 +9,7 @@
 ---
 
 ## 🙋‍♂️ About Me
-- 🎓 **B.Tech CSE 3rd Year** at **Graphic Era Hill University**  
+- 🎓 **B.Tech CSE Final Year** at **Graphic Era Hill University**  
 - 💻 **Skills:** Web Development, DSA, Problem-Solving  
 - 🔭 **Currently Working On:** DSA, Web Development, and Competitive Programming  
 - 🎯 **Goal:** Securing a **12+ LPA Package** in on-campus placements  
