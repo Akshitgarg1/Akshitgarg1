@@ -8,9 +8,56 @@
 
 ---
 
+## 🎓 Education
+
+<table>
+  <thead>
+    <tr>
+      <th width="70%">Institution</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Bachelor of Technology (B.Tech) in Computer Science & Engineering</strong>
+        <br/>
+        Graphic Era Hill Unieversity, Dehradun
+        <br/>
+        Key Courses: Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks, Compiler Design, Machine Learning
+        <br/>
+        CGPA : 8.48 / 10 (Till 6th Sem)
+      </td>
+      <td align="center">2022 – 2026</td>
+    </tr>
+    <tr>
+      <td>
+        <strong> CBSE (Class XII) – Science (PCM)</strong>
+        <br/>
+        Greenway Modern Sr. Sec. School, Roorkee
+        <br/>
+        Percentage: 78.40%
+      </td>
+      <td align="center">2021 – 2022</td>
+    </tr>
+    <tr>
+      <td>
+        <strong>CBSE (Class X)</strong>
+        <br/>
+        Greenway Modern Sr. Sec. School, Roorkee
+        <br/>
+        Percentage: 90.60%
+      </td>
+      <td align="center">2019 – 2020</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 🏆 My Projects & Work
 
-Here are a few projects I've worked on. Please feel free to check them out!
+Here are a few real-world projects I've built — each focused on applying core CS concepts in practical scenarios.
 
 <table>
   <thead>
@@ -23,52 +70,63 @@ Here are a few projects I've worked on. Please feel free to check them out!
   <tbody>
     <tr>
       <td>
-        <strong>ProjectHub - A Collaborative Project Management Tool</strong>
+        <strong>Netflix Content Recommendation System</strong>
         <br/><br/>
-        A full-stack web application that allows users to create projects, assign tasks, and track progress in real-time. Features include user authentication, a Kanban-style board, and team collaboration.
+        Built a hybrid recommendation engine combining content-based filtering using TF-IDF and cosine similarity.
+        Extracted and analyzed metadata features (genres, cast, descriptions) to deliver personalized movie suggestions.
+        Achieved strong alignment with user preference patterns.
+        <br/><br/>
+        <em>Duration:</em> Jan – Feb 2025
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/difflib-000000?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/TFIDFVectorizer-FF6F00?style=for-the-badge"/>
       </td>
       <td align="center">
-        <a href="[LINK_TO_YOUR_LIVE_DEMO]">🚀 Live Demo</a>
-        <br/>
-        <a href="[LINK_TO_YOUR_GITHUB_REPO]">🔗 GitHub</a>
+        <a href="https://github.com/Akshitgarg1/NETFLIX-CONTENT-RECOMMENDATION-SYSTEM">🔗 GitHub</a>
       </td>
     </tr>
     <tr>
       <td>
-        <strong>AlgoVisualizer - Data Structures & Algorithms Visualization</strong>
+        <strong>Byte Sculptor – Mini Python Interpreter</strong>
         <br/><br/>
-        An interactive web tool designed to help visualize common algorithms like Sorting (Bubble, Merge, Quick) and Pathfinding (Dijkstra's, A*). Built entirely with React and vanilla CSS.
+        Implemented a lightweight interpreter supporting variable handling, control flow, and expression parsing using Abstract Syntax Trees (ASTs).
+        Integrated compiler-construction principles for efficient execution and modular parsing.
+        <br/><br/>
+        <em>Duration:</em> Apr – May 2025
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flex-FFD700?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Yacc-4B8BBE?style=for-the-badge"/>
       </td>
       <td align="center">
-        <a href="[LINK_TO_YOUR_LIVE_DEMO]">🚀 Live Demo</a>
-        <br/>
-        <a href="[LINK_TO_YOUR_GITHUB_REPO]">🔗 GitHub</a>
+        <a href="https://github.com/Akshitgarg1/Mini-Python-Compiler">🔗 GitHub</a>
       </td>
     </tr>
     <tr>
       <td>
-        <strong>LeetCode Solutions & DSA Patterns</strong>
+        <strong>Page Pulse – Page Replacement Simulator</strong>
         <br/><br/>
-        My personal repository of solutions to over 200+ LeetCode problems, organized by data structure and common patterns (e.g., Sliding Window, Two Pointers, Dynamic Programming).
+        Developed a visualization tool to simulate and compare major page replacement algorithms — FIFO, LRU, Optimal, LFU, and Clock.
+        Highlighted up to <strong>29% variation in fault rates</strong> across algorithms through dynamic charts and interactive inputs.
+        <br/><br/>
+        <em>Duration:</em> May – Jun 2025
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
       </td>
       <td align="center">
-        <a href="[LINK_TO_YOUR_DSA_REPO]">🔗 GitHub</a>
+        <a href="https://akshitgarg1.github.io/PagePulse/">🚀 Live Demo</a>
+        <br/>
+        <a href="https://github.com/Akshitgarg1/PagePulse">🔗 GitHub</a>
       </td>
     </tr>
   </tbody>
@@ -76,12 +134,10 @@ Here are a few projects I've worked on. Please feel free to check them out!
 
 ---
 
----
-
 ## 🚀 My Tech Stack
 
 Here are the technologies I work with:
-
+<table>
 <p align="center">
   &nbsp;
   <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="40" width="40" />
@@ -117,6 +173,7 @@ Here are the technologies I work with:
   <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" width="40" />
   &nbsp;
 </p>
+</table>
 
 ---
 
@@ -125,6 +182,7 @@ Here are the technologies I work with:
   <img src="https://github-readme-stats.vercel.app/api?username=akshit-garg&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshit-garg&theme=radical" width="48%" />
 </p>
+
 ---
 
 ## 📫 Let's Connect!
@@ -132,16 +190,16 @@ Here are the technologies I work with:
 You can find me on:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshit-garg-0b37b52a6" target="_blank">
+  <a href="www.linkedin.com/in/akshit-garg-0b37b52a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:garg2com@gmail.com" target="_blank">
+  <a href="mailto:garg28966@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="[YOUR_LEETCODE_PROFILE_URL]" target="_blank">
+  <a href="https://leetcode.com/u/akshit12_g/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
-  <a href="https://github.com/akshit-garg" target="_blank">
+  <a href="https://github.com/Akshitgarg1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
