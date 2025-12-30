@@ -133,48 +133,23 @@ Here are a few real-world projects I've built — each focused on applying core 
 </table>
 
 ---
+## 🚀 Tech Stack
 
-## 🚀 My Tech Stack
+### 💻 Programming & Systems
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql,bash,linux" />
 
-Here are the technologies I work with:
-<table>
-<p align="center">
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/css/663399" alt="CSS" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/express/000000" alt="Express" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" height="40" width="40" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" width="40" />
-  &nbsp;
-</p>
-</table>
+### 🌐 Web Development (MERN/Flask)
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,flask,firebase" />
 
+### 🤖 Machine Learning & Data
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
+
+### 🛠️ Infrastructure & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,sqlite" />
+
+### 🔐 Specialized Knowledge
+* **Compilers:** Flex / Bison
+* **Security:** RBAC, IP Access Control, Network Security
 ---
 
 ## 📫 Let's Connect!
