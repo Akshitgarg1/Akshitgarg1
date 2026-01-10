@@ -157,7 +157,7 @@ Here are a few real-world projects I've built — each focused on applying core 
 You can find me on:
 
 <p align="center">
-  <a href="www.linkedin.com/in/akshitgarg26" target="_blank">
+  <a href="[https://www.linkedin.com/in/akshitgarg26/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:garg28966@gmail.com" target="_blank">
