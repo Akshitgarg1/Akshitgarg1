@@ -7,52 +7,24 @@
 </div>
 
 ---
+## 🚀 Tech Stack
 
-## 🎓 Education
+### 💻 Programming & Systems
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql,bash,linux" />
 
-<table>
-  <thead>
-    <tr>
-      <th width="70%">Institution</th>
-      <th>Duration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <strong>Bachelor of Technology (B.Tech) in Computer Science & Engineering</strong>
-        <br/>
-        Graphic Era Hill Unieversity, Dehradun
-        <br/>
-        Key Courses: Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks, Compiler Design, Machine Learning
-        <br/>
-        CGPA : 8.48 / 10 (Till 6th Sem)
-      </td>
-      <td align="center">2022 – 2026</td>
-    </tr>
-    <tr>
-      <td>
-        <strong> CBSE (Class XII) – Science (PCM)</strong>
-        <br/>
-        Greenway Modern Sr. Sec. School, Roorkee
-        <br/>
-        Percentage: 78.40%
-      </td>
-      <td align="center">2021 – 2022</td>
-    </tr>
-    <tr>
-      <td>
-        <strong>CBSE (Class X)</strong>
-        <br/>
-        Greenway Modern Sr. Sec. School, Roorkee
-        <br/>
-        Percentage: 90.60%
-      </td>
-      <td align="center">2019 – 2020</td>
-    </tr>
-  </tbody>
-</table>
+### 🌐 Web Development (MERN/Flask)
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,flask,firebase" />
 
+### 🤖 Machine Learning & Data
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
+
+### 🛠️ Infrastructure & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,sqlite" />
+
+### 🔐 Specialized Knowledge
+* **Compilers:** Flex / Bison
+* **Security:** RBAC, IP Access Control, Network Security
+  
 ---
 
 ## 🏆 My Projects & Work
@@ -133,24 +105,63 @@ Here are a few real-world projects I've built — each focused on applying core 
 </table>
 
 ---
-## 🚀 Tech Stack
 
-### 💻 Programming & Systems
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql,bash,linux" />
+## 🛠️ Problem Solving & Consistency
+<div align="left">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=akshit12_g&theme=dark" alt="LeetCode Badge" />
+</div>
 
-### 🌐 Web Development (MERN/Flask)
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,flask,firebase" />
+> **50 Days of Consistency (2026):** Currently on a streak to master Data Structures and Algorithms. I focus primarily on C++ and complex patterns like Dynamic Programming and Trees.
 
-### 🤖 Machine Learning & Data
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
-
-### 🛠️ Infrastructure & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,sqlite" />
-
-### 🔐 Specialized Knowledge
-* **Compilers:** Flex / Bison
-* **Security:** RBAC, IP Access Control, Network Security
 ---
+
+## 🎓 Education
+
+<table>
+  <thead>
+    <tr>
+      <th width="70%">Institution</th>
+      <th>Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Bachelor of Technology (B.Tech) in Computer Science & Engineering</strong>
+        <br/>
+        Graphic Era Hill Unieversity, Dehradun
+        <br/>
+        Key Courses: Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks, Compiler Design, Machine Learning
+        <br/>
+        CGPA : 8.48 / 10 (Till 6th Sem)
+      </td>
+      <td align="center">2022 – 2026</td>
+    </tr>
+    <tr>
+      <td>
+        <strong> CBSE (Class XII) – Science (PCM)</strong>
+        <br/>
+        Greenway Modern Sr. Sec. School, Roorkee
+        <br/>
+        Percentage: 78.40%
+      </td>
+      <td align="center">2021 – 2022</td>
+    </tr>
+    <tr>
+      <td>
+        <strong>CBSE (Class X)</strong>
+        <br/>
+        Greenway Modern Sr. Sec. School, Roorkee
+        <br/>
+        Percentage: 90.60%
+      </td>
+      <td align="center">2019 – 2020</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 
 ## 📫 Let's Connect!
 
