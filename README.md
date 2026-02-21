@@ -7,24 +7,119 @@
 </div>
 
 ---
-## 🚀 Tech Stack
+<div align="center">
+  <h2>🚀 Tech Stack</h2>
 
-### 💻 Programming & Systems
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql,bash,linux" />
+  <h3>💻 Programming & Systems</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,mysql,bash,linux" />
 
-### 🌐 Web Development (MERN/Flask)
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,flask,firebase" />
+  <br><br>
 
-### 🤖 Machine Learning & Data
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
+  <h3>🌐 Web Development (MERN/Flask)</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,flask,firebase" />
 
-### 🛠️ Infrastructure & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,sqlite" />
+  <br><br>
 
-### 🔐 Specialized Knowledge
-* **Compilers:** Flex / Bison
-* **Security:** RBAC, IP Access Control, Network Security
-  
+  <h3>🤖 Machine Learning & Data</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy" />
+
+  <br><br>
+
+  <h3>🛠️ Infrastructure & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,sqlite" />
+
+  <br><br>
+
+  <h3>🔐 Specialized Knowledge</h3>
+  <p>
+    <b>Compilers:</b> Flex / Bison <br>
+    <b>Security:</b> RBAC, IP Access Control, Network Security
+  </p>
+</div>
+
+<!-- <div align="center">
+  <h2>🚀 Technical Toolbox</h2>
+
+  <h3>💻 Programming & Systems</h3>
+  <img src="https://techstack-generator.vercel.app/rest-api.svg?stack=c,cpp,python,js,mysql,bash,linux&style=tiles" />
+
+  <br><br>
+
+  <h3>🌐 Web Development</h3>
+  <img src="https://techstack-generator.vercel.app/rest-api.svg?stack=html5,css3,react,tailwind,nodejs,flask,firebase&style=tiles" />
+
+  <br><br>
+
+  <h3>🤖 Machine Learning & Infrastructure</h3>
+  <img src="https://techstack-generator.vercel.app/rest-api.svg?stack=tensorflow,git,github,docker,mongodb,sqlite&style=tiles" />
+
+  <br><br>
+
+  <h3>🔐 Specialized Knowledge</h3>
+  <table align="center">
+    <tr>
+      <td align="center"><b>Compilers</b><br>Flex / Bison</td>
+      <td align="center"><b>Security</b><br>RBAC / IP Access Control</td>
+      <td align="center"><b>Networking</b><br>OSI Model / Network Security</td>
+    </tr>
+  </table>
+</div>
+
+
+[techstack-generator](https://techstack-generator.vercel.app/) provides animated techstack icons in html and markdown.
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
+</div>
+
+
+<div align="center">
+  <h2>🚀 Tech Stack</h2>
+
+  <h3>💻 Programming & Systems</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/bash-icon.svg" alt="Bash" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65" />
+  </div>
+
+  <br>
+
+  <h3>🌐 Web Development (MERN/Flask)</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://techstack-generator.vercel.app/html5-icon.svg" alt="HTML5" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/tailwind-icon.svg" alt="Tailwind" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="NodeJS" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Flask/API" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/firebase-icon.svg" alt="Firebase" width="65" height="65" />
+  </div>
+
+  <br>
+
+  <h3>🤖 Machine Learning & Infrastructure</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="Tensorflow" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/sqlite-icon.svg" alt="SQLite" width="65" height="65" />
+  </div>
+
+  <br>
+
+  <h3>🔐 Specialized Knowledge</h3>
+  <p>
+    <b>Compilers:</b> Flex / Bison <br>
+    <b>Security:</b> RBAC, IP Access Control, Network Security
+  </p>
+</div> -->
+
 ---
 
 ## 🏆 My Projects & Work
@@ -107,7 +202,7 @@ Here are a few real-world projects I've built — each focused on applying core 
 ---
 
 ## 🛠️ Problem Solving & Consistency
-<div align="left">
+<div align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=akshit12_g&theme=dark" alt="LeetCode Badge" />
 </div>
 
