@@ -202,11 +202,13 @@ Here are a few real-world projects I've built — each focused on applying core 
 ---
 
 ## 🛠️ Problem Solving & Consistency
+
 <div align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=akshit12_g&theme=dark" alt="LeetCode Badge" />
 </div>
 
-> **50 Days of Consistency (2026):** Currently on a streak to master Data Structures and Algorithms. I focus primarily on C++ and complex patterns like Dynamic Programming and Trees.
+> **2026 Milestone:** Completed the **January** & **February** Daily Challenge streaks.
+> **Current Focus:** Mastering DSA patterns through daily discipline.
 
 ---
 
