@@ -208,6 +208,14 @@ Built a collaborative workspace backend supporting real-time messaging, task syn
   <img src="https://streak-stats.demolab.com?user=Akshitgarg1&theme=tokyonight&hide_border=true&background=0D1117"/>
 </div>
 
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshitgarg1/Akshitgarg1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshitgarg1/Akshitgarg1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akshitgarg1/Akshitgarg1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 🎓 Education
 
