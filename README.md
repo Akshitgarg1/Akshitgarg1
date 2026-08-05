@@ -188,25 +188,25 @@ Built a collaborative workspace backend supporting real-time messaging, task syn
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshitgarg1&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshitgarg1&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Akshitgarg1&theme=github-dark-blue&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshitgarg1&theme=github-dark"/>
-
+  <!-- Animated Typing Text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Building+Secure+APIs;Managing+PostgreSQL+Databases" alt="Typing SVG" />
 </div>
+<br>
 
----
+<div align="center">
+  <!-- Stats & Top Languages Side-by-Side -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshitgarg1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshitgarg1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+<br>
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Akshitgarg1&theme=tokyonight&hide_border=true&background=0D1117"/>
+</div>
 
 
 ## 🎓 Education
