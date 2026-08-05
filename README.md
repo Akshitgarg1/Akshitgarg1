@@ -7,41 +7,67 @@ I enjoy building scalable backend systems, full-stack web applications, and prac
 </p>
 
 ---
-<div align="center">
-<h2>🚀 Tech Stack</h2>
 
-<h3>💻 Languages</h3>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,sql" />
+## 💻 Tech Stack
 
-<br>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<h3>⚙️ Backend</h3>
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,c,mysql,postgres"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### ⚙️ Backend
+
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 
-<br>
+</td>
+</tr>
 
-<h3>🎨 Frontend</h3>
+<tr>
+<td align="center">
+
+### 🎨 Frontend
+
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
-<br>
+</td>
 
-<h3>🗄️ Databases</h3>
+<td align="center">
+
+### 🗄️ Databases
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,redis" />
 
-<br>
+</td>
+</tr>
 
-<h3>🛠 Tools</h3>
+<tr>
+<td align="center">
+
+### 🛠 Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
 
-<br>
+</td>
 
-<h3>📚 Libraries</h3>
+<td align="center">
+
+### 📚 ML & Data
+
 <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy" />
 
-</div>
+</td>
+</tr>
+
+</table>
 
 ---
-
 ## 🏆 My Projects & Work
 
 Here are a few real-world projects I've built — each focused on applying core CS concepts in practical scenarios.
